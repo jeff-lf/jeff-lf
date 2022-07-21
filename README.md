@@ -3,6 +3,7 @@
  <img width='20px' src='https://avatars.githubusercontent.com/u/56847172?s=200&v=4' />   Studying back-end development at [Kenzie Academy](https://www.linkedin.com/school/kenzieacademybr/)   
  :school: Studying Bachelor's Degree in Data Science at [Univesp](https://www.linkedin.com/school/univespoficial/)   
 ### Projects
+- [My first E-commerce](https://github.com/jeff-lf/First-E-commerce)
 
 ### Contacts
   <a href='https://www.linkedin.com/in/ferreira-jefferson/'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt="Jefferson Ferreira's linkedin" /> </a>
