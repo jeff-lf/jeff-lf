@@ -3,7 +3,7 @@
  <img width='20px' src='https://avatars.githubusercontent.com/u/56847172?s=200&v=4' />   Studying back-end development at [Kenzie Academy](https://www.linkedin.com/school/kenzieacademybr/)   
  :school: Studying Bachelor's Degree in Data Science at [Univesp](https://www.linkedin.com/school/univespoficial/)   
 ### Projects
-- [Friendly market](https://projeto-final-m3.vercel.app/)
+- [Friendly market](https://github.com/jeff-lf/Friendly-market)
 - [Kenzie Food](https://github.com/jeff-lf/Kenzie-Food)
 - [My first E-commerce](https://github.com/jeff-lf/First-E-commerce)
 
