@@ -9,6 +9,7 @@
 - [Kenzie Hub (Feito com React)](https://github.com/jeff-lf/Kenzie-hub)
 - [Kenzie Food (Feito com JS)](https://github.com/jeff-lf/Kenzie-Food)
 - [Primeiro E-commerce (feito com JS)](https://github.com/jeff-lf/First-E-commerce)
+##### Obs: Como os projetos foram feitos como atividades com prazos de entrega, a maioria deles precisam de ajustes afim de serem finalizados.
 
 ### Contacts
   <a href='https://www.linkedin.com/in/ferreira-jefferson/'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt="Jefferson Ferreira's linkedin" /> </a>
