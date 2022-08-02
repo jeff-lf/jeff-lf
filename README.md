@@ -6,9 +6,9 @@
 - [Friendly market](https://github.com/jeff-lf/Friendly-market)
 - [Kenzie Shop (utilizando context-api)](https://github.com/jeff-lf/Kenzieshop-com-context-api)
 - [Kenzie Shop (utilizando redux)](https://github.com/jeff-lf/Kenzieshop-com-redux)
-- [Kenzie Hub](https://github.com/jeff-lf/Kenzie-hub)
-- [Kenzie Food](https://github.com/jeff-lf/Kenzie-Food)
-- [My first E-commerce](https://github.com/jeff-lf/First-E-commerce)
+- [Kenzie Hub (Feito com React)](https://github.com/jeff-lf/Kenzie-hub)
+- [Kenzie Food (Feito com JS)](https://github.com/jeff-lf/Kenzie-Food)
+- [Primeiro E-commerce (feito com JS)](https://github.com/jeff-lf/First-E-commerce)
 
 ### Contacts
   <a href='https://www.linkedin.com/in/ferreira-jefferson/'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt="Jefferson Ferreira's linkedin" /> </a>
