@@ -4,6 +4,8 @@
  :school: Studying Bachelor's Degree in Data Science at [Univesp](https://www.linkedin.com/school/univespoficial/)   
 ### Projects
 - [Friendly market](https://github.com/jeff-lf/Friendly-market)
+- [Kenzie Shop (utilizando context-api)](https://github.com/jeff-lf/Kenzieshop-com-context-api)
+- [Kenzie Shop (utilizando redux)](https://github.com/jeff-lf/Kenzieshop-com-redux)
 - [Kenzie Hub](https://github.com/jeff-lf/Kenzie-hub)
 - [Kenzie Food](https://github.com/jeff-lf/Kenzie-Food)
 - [My first E-commerce](https://github.com/jeff-lf/First-E-commerce)
