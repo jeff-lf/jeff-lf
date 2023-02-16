@@ -1,6 +1,6 @@
 ### About Me
  <img  width='24px' src='https://user-images.githubusercontent.com/85947440/180261798-d8ae9c09-ac95-42fd-9ffa-ea5992f34fec.png' />   I'm a front-end developer     
- <img width='20px' src='https://avatars.githubusercontent.com/u/56847172?s=200&v=4' />   Studying back-end development at [Kenzie Academy](https://www.linkedin.com/school/kenzieacademybr/)   
+ <img width='20px' src='https://avatars.githubusercontent.com/u/56847172?s=200&v=4' />   I studied full-stack development at [Kenzie Academy](https://www.linkedin.com/school/kenzieacademybr/)   
  :school: Studying Bachelor's Degree in Data Science at [Univesp](https://www.linkedin.com/school/univespoficial/)   
 ### Projects
 - [Friendly market](https://github.com/jeff-lf/Friendly-market)
