@@ -1,27 +1,49 @@
-### About Me
- <img  width='24px' src='https://user-images.githubusercontent.com/85947440/180261798-d8ae9c09-ac95-42fd-9ffa-ea5992f34fec.png' />   I'm a full-stack developer     
- <img width='20px' src='https://avatars.githubusercontent.com/u/56847172?s=200&v=4' />   I studied full-stack development at [Kenzie Academy](https://www.linkedin.com/school/kenzieacademybr/)   
- :school: Studying Bachelor's Degree in Data Science at [Univesp](https://www.linkedin.com/school/univespoficial/)   
-### Projects
-- [Friendly market](https://github.com/jeff-lf/Friendly-market)
-- [Kenzie Shop (utilizando context-api)](https://github.com/jeff-lf/Kenzieshop-com-context-api)
-- [Kenzie Shop (utilizando redux)](https://github.com/jeff-lf/Kenzieshop-com-redux)
-- [Kenzie Hub (Feito com React)](https://github.com/jeff-lf/Kenzie-hub)
-- [Kenzie Food (Feito com JS)](https://github.com/jeff-lf/Kenzie-Food)
-- [Primeiro E-commerce (feito com JS)](https://github.com/jeff-lf/First-E-commerce)
-##### Obs: Como os projetos foram feitos como atividades com prazos de entrega, a maioria deles precisam de ajustes afim de serem finalizados.
+### Sobre mim
 
-### Contacts
-  <a href='https://www.linkedin.com/in/ferreira-jefferson/'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt="Jefferson Ferreira's linkedin" /> </a>
-  <a href='mailto:jeffersonlf.dev@gmail.com'><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' alt="Jefferson Ferreira's email" /> </a>
-### Technology skills
-#### Programming
-<img src='https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white' /> <img src='https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white' /> <img src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black' /> <img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB' > <img src='https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white' /> <img src='https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white' /> <img src='https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white' /> <img src='https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white' /> <img src='https://img.shields.io/badge/Express.js-404D59?style=for-the-badge' /> <img src='https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white' />
+- 🎯 Desenvolvedor com foco em MarTech, Tracking e dados
+- 📊 Arquiteto mapas de tags e mapas de atributos, e implemento tracking em múltiplas plataformas de mídia (Meta Ads, Google Ads, TikTok, Pinterest, Awin)
+- 🤖 Aprofundando estudos em Engenharia de IA Aplicada (LLMs, RAG, agentes), aplicados na prática no meu projeto Uiara Ona
+- 🎓 Ciência de Dados pela [Univesp](https://univesp.br)
 
-#### Others
-<img src='https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white' /> <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white' />
+### Projetos em destaque
+
+- 🌱 **[Uiara Ona](https://uiaraona.com.br/)**: projeto próprio que aplica na prática o que estou estudando em Engenharia de IA Aplicada, voltado a apoiar organizações de impacto social na captação de recursos
+- 💼 **Portfólio de MarTech e IA**: cases de tracking, arquitetura de tags e IA aplicada *(em breve)*
+
+### Contatos
+
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ferreira-jefferson/)
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:jeffersonlf.dev@gmail.com)
+
+### MarTech e dados
+
+![GTM](https://img.shields.io/badge/-Google%20Tag%20Manager-246FDB?style=for-the-badge&logo=googletagmanager&logoColor=white)
+![GA4](https://img.shields.io/badge/-GA4-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Desenvolvimento
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-NODE.JS-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### IA Aplicada
+
+![LLMs](https://img.shields.io/badge/-LLMs-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/-PROMPT%20ENGINEERING-412991?style=for-the-badge)
+![RAG](https://img.shields.io/badge/-RAG-412991?style=for-the-badge)
+![Agentes](https://img.shields.io/badge/-AGENTES%20DE%20IA-412991?style=for-the-badge)
+
+### Outros
+
+![Git](https://img.shields.io/badge/-GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-|<a  href='https://github.com/anuraghazra/github-readme-stats'><img src='https://github-readme-stats.vercel.app/api?username=jeff-lf&theme=vue&show_icons=true&hide_border=true' alt="Jefferson Ferreira's github stats" /></a> | <a  href='https://github.com/anuraghazra/github-readme-stats'><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=jeff-lf&layout=compact&theme=vue&hide_border=true' alt="Jefferson Ferreira's github most used languages" /></a>|
-| ------------- | ------------- |
+![Jefferson Ferreira's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeff-lf&show_icons=true&theme=dark)
+![Jefferson Ferreira's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jeff-lf&layout=compact&theme=dark)
