@@ -44,6 +44,3 @@
 ![GitHub](https://img.shields.io/badge/-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
-
-![Jefferson Ferreira's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeff-lf&show_icons=true&theme=dark)
-![Jefferson Ferreira's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jeff-lf&layout=compact&theme=dark)
